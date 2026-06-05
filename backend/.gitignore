@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+env/
+.env
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.idea/
+.vscode/
+.DS_Store

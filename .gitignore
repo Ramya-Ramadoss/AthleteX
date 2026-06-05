@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+env/
+.env
+.Python
+
+# Node
+node_modules/
+build/
+package-lock.json
+yarn.lock
+
+# IDE / Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+npm-debug.log*
+python-debug.log*

@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6fb;
+  color: #1a1a1a;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  cursor: pointer;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+li button {
+  background-color: #1d4ed8;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+li button:hover {
+  opacity: 0.9;
+}
