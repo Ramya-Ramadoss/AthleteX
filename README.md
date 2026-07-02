@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:74EBD5,100:9FACE6&text=ATHLETEX%20SPORTS%20TRAINER&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
 <div align="center">
 
 # 🚀 AthleteX
